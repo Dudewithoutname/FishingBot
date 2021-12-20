@@ -46,7 +46,6 @@ export class CommandManager {
 					break;
 				}
             });
-            
 			discordCommands.push(builder);
 		}); 
         
