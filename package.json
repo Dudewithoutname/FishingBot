@@ -1,0 +1,18 @@
+{
+  "name": "rypicka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/main.js",
+  "scripts": {
+    "start": "ts-node ./src/main.ts"
+  },
+  "author": "Dudewithoutname",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.9.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.25.2",
+    "discord.js": "^13.3.1",
+    "mongoose": "^6.1.2"
+  }
+}

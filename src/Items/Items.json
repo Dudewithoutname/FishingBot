@@ -1,0 +1,152 @@
+[
+    {
+        "id": 0,
+        "name": "Jack",
+        "type": "FISH",
+        "rarity": 1,
+        "data": {
+            "minSize": 10,
+            "maxSize": 31.5
+        }    
+    },
+    {
+        "id": 1,
+        "name": "Carp",
+        "type": "FISH",
+        "rarity": 1,
+        "data": {
+            "minSize": 38,
+            "maxSize": 81
+        }    
+    },
+    {
+        "id": 2,
+        "name": "Asp",
+        "type": "FISH",
+        "rarity": 1,
+        "data": {
+            "minSize": 32,
+            "maxSize": 72
+        }    
+    },
+    {
+        "id": 3,
+        "name": "Bas",
+        "type": "FISH",
+        "rarity": 2,
+        "data": {
+            "minSize": 60,
+            "maxSize": 135
+        }    
+    },
+    {
+        "id": 4,
+        "name": "Whale",
+        "type": "FISH",
+        "rarity": 1,
+        "data": {
+            "minSize": 15000,
+            "maxSize": 30000
+        }    
+    },
+    {
+        "id": 5,
+        "name": "Amberjack",
+        "type": "FISH",
+        "rarity": 6,
+        "data": {
+            "minSize": 30,
+            "maxSize": 75
+        }    
+    },
+    {
+        "id": 6,
+        "name": "Bonito",
+        "type": "FISH",
+        "rarity": 1,
+        "data": {
+            "minSize": 60,
+            "maxSize": 110
+        }    
+    },
+    {
+        "id": 7,
+        "name": "Eel",
+        "type": "FISH",
+        "rarity": 3,
+        "data": {
+            "minSize": 58,
+            "maxSize": 100
+        }    
+    },
+    {
+        "id": 9,
+        "name": "Crab",
+        "type": "FISH",
+        "rarity": 4,
+        "data": {
+            "minSize": 10,
+            "maxSize": 50
+        }    
+    }, 
+    {
+        "id": 9,
+        "name": "Arctic Char",
+        "type": "FISH",
+        "rarity": 4,
+        "data": {
+            "minSize": 20,
+            "maxSize": 115.2
+        }    
+    }, 
+    {
+        "id": 10,
+        "name": "Barracuda",
+        "type": "FISH",
+        "rarity": 5,
+        "data": {
+            "minSize": 70,
+            "maxSize": 150
+        }    
+    }, 
+    {
+        "id": 11,
+        "name": "Sturgeon",
+        "type": "FISH",
+        "rarity": 6,
+        "data": {
+            "minSize": 30,
+            "maxSize": 200
+        }    
+    },
+    {
+        "id": 12,
+        "name": "Perch",
+        "type": "FISH",
+        "rarity": 2,
+        "data": {
+            "minSize": 15,
+            "maxSize": 65
+        }    
+    },
+    {
+        "id": 13,
+        "name": "Marlin",
+        "type": "FISH",
+        "rarity": 3,
+        "data": {
+            "minSize": 120,
+            "maxSize": 200
+        }    
+    },
+    {
+        "id": 14,
+        "name": "Kahawai",
+        "type": "FISH",
+        "rarity": 1,
+        "data": {
+            "minSize": 30,
+            "maxSize": 81.5
+        }    
+    }
+]
