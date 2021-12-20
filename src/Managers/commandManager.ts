@@ -70,13 +70,13 @@ export type Command = {
 export type CommandParameter = {
     name: string;
     description: string;
-	type: CommandParameterType;
+    type: CommandParameterType;
     required?: boolean;
 }
 
 export enum CommandParameterType{
-	STRING,
-	BOOLEAN,
-	NUMBER,
-	USER
+    STRING,
+    BOOLEAN,
+    NUMBER,
+    USER
 }
