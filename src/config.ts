@@ -1,4 +1,4 @@
-export type BotConfig ={
+export type BotConfig = {
     token: string;
     guildId: string;
     clientId: string;
@@ -11,4 +11,3 @@ export const config: BotConfig = {
     clientId: "1234567890",
     mongoDB: "mongodb://localhost:27069",
 };
-//aww

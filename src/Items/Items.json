@@ -7,7 +7,7 @@
         "data": {
             "minSize": 10,
             "maxSize": 31.5
-        }    
+        }
     },
     {
         "id": 1,
@@ -17,7 +17,7 @@
         "data": {
             "minSize": 38,
             "maxSize": 81
-        }    
+        }
     },
     {
         "id": 2,
@@ -27,7 +27,7 @@
         "data": {
             "minSize": 32,
             "maxSize": 72
-        }    
+        }
     },
     {
         "id": 3,
@@ -37,7 +37,7 @@
         "data": {
             "minSize": 60,
             "maxSize": 135
-        }    
+        }
     },
     {
         "id": 4,
@@ -47,7 +47,7 @@
         "data": {
             "minSize": 15000,
             "maxSize": 30000
-        }    
+        }
     },
     {
         "id": 5,
@@ -57,7 +57,7 @@
         "data": {
             "minSize": 30,
             "maxSize": 75
-        }    
+        }
     },
     {
         "id": 6,
@@ -67,7 +67,7 @@
         "data": {
             "minSize": 60,
             "maxSize": 110
-        }    
+        }
     },
     {
         "id": 7,
@@ -77,7 +77,7 @@
         "data": {
             "minSize": 58,
             "maxSize": 100
-        }    
+        }
     },
     {
         "id": 9,
@@ -87,8 +87,8 @@
         "data": {
             "minSize": 10,
             "maxSize": 50
-        }    
-    }, 
+        }
+    },
     {
         "id": 9,
         "name": "Arctic Char",
@@ -97,8 +97,8 @@
         "data": {
             "minSize": 20,
             "maxSize": 115.2
-        }    
-    }, 
+        }
+    },
     {
         "id": 10,
         "name": "Barracuda",
@@ -107,8 +107,8 @@
         "data": {
             "minSize": 70,
             "maxSize": 150
-        }    
-    }, 
+        }
+    },
     {
         "id": 11,
         "name": "Sturgeon",
@@ -117,7 +117,7 @@
         "data": {
             "minSize": 30,
             "maxSize": 200
-        }    
+        }
     },
     {
         "id": 12,
@@ -127,7 +127,7 @@
         "data": {
             "minSize": 15,
             "maxSize": 65
-        }    
+        }
     },
     {
         "id": 13,
@@ -137,7 +137,7 @@
         "data": {
             "minSize": 120,
             "maxSize": 200
-        }    
+        }
     },
     {
         "id": 14,
@@ -147,6 +147,6 @@
         "data": {
             "minSize": 30,
             "maxSize": 81.5
-        }    
+        }
     }
 ]

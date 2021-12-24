@@ -1,4 +1,4 @@
-import { Item, ItemType } from '../Models/Item';
+import { Item } from '../Models/Item';
 import rawItems from './Items.json';
 
 export class ItemManager{

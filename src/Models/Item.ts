@@ -7,7 +7,7 @@ export interface Item {
 }
 
 // don't ask me why
-export enum ItemRarity{
+export enum ItemRarity {
     EXOTIC = 6,
     LEGENDARY = 5,
     EPIC = 4,
@@ -17,15 +17,15 @@ export enum ItemRarity{
     BASIC = 0,
 }
 
-export enum ItemType{
+export enum ItemType {
     FISH = 'FISH',
     ITEM = 'ITEM',
     MATERIAL = 'MATERIAL',
     FISHING_ROD = 'FISHING_ROD',
 }
 
-export function rarityToString(rarity: ItemRarity): string{
-    switch(rarity){
+export function rarityToString(rarity: ItemRarity): string {
+    switch (rarity) {
         case ItemRarity.EXOTIC:
             return 'Exotic';
         case ItemRarity.LEGENDARY:
@@ -45,8 +45,8 @@ export function rarityToString(rarity: ItemRarity): string{
     }
 }
 
-export function rarityToEmoji(rarity: ItemRarity): string{
-    switch(rarity){
+export function rarityToEmoji(rarity: ItemRarity): string {
+    switch (rarity) {
         case ItemRarity.EXOTIC:
             return '🔴';
         case ItemRarity.LEGENDARY:
