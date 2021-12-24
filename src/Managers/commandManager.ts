@@ -50,7 +50,7 @@ export class CommandManager {
 			discordCommands.push(builder);
 		}); 
         
-        discordCommands.map(command => command.toJSON())
+      discordCommands.map(command => command.toJSON())
 
 		this.rest.put(Routes.applicationGuildCommands(config.clientId, config.guildId), { body: discordCommands })
 			.then(() => console.log('[CommandManager] Commands Deployed!'))
@@ -61,17 +61,17 @@ export class CommandManager {
 }
 
 export type Command = {
-    name: string;
-    description: string;
-    parameters?: CommandParameter[];
-    execute: Function;
+   name: string;
+   description: string;
+   parameters?: CommandParameter[];
+   execute: Function;
 }
 
 export type CommandParameter = {
-    name: string;
-    description: string;
-	type: CommandParameterType;
-    required?: boolean;
+   name: string;
+   description: string;
+   type: CommandParameterType;
+   required?: boolean;
 }
 
 export enum CommandParameterType{
